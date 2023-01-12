@@ -1,12 +1,12 @@
 [
 {
- "img":"/public/imgJson/celular-huawei-p30-lite-128-gb-4-gb-ram-3-camaras_5fca9a366e1fb.jpeg",
+ "img":"imgJson/celular-huawei-p30-lite-128-gb-4-gb-ram-3-camaras_5fca9a366e1fb.jpeg",
  "title":"Huawei p30 lite",
  "description":"celular huawei p30 lite azul, con 128 gb de internas y 4 gb de ram",
 "price":"$: 400.00"
 },
 {
-    "img":"/public/imgJson//Smart-TV-S5_-Síragon-TV-.jpg",
+    "img":"imgJson//Smart-TV-S5_-Síragon-TV-.jpg",
     "title":"Smart-TV-S5 pulgadas",
     "description":"televisor smartv de 55 pulgadas negro,",
    "price":"$: 800.00"
